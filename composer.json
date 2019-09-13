@@ -1,5 +1,5 @@
 {
-  "name": "subdee/salesforce-bulk-api-client",
+  "name": "3ev/salesforce-bulk-api-client",
   "require": {
     "php": ">=5.4"
   },
